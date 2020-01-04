@@ -3,7 +3,7 @@ ffmpeg==1.2.1
 ffprobe==0.5
 librosa==0.6.2
 matplotlib==2.2.3
-nltk==3.4
+nltk==3.4.5
 nnmnkwii==0.0.17
 numpy==1.15.4
 pycuda==2018.1.1
