@@ -8,7 +8,7 @@ nnmnkwii==0.0.17
 numpy==1.15.4
 pycuda==2018.1.1
 pydub==0.23.0
-Pygments==2.2.0
+Pygments==2.7.4
 pypinyin==0.34.1
 scipy==1.2.0
 tensorflow-gpu==1.10.1
